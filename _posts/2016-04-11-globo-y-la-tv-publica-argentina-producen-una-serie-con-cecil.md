@@ -19,8 +19,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://www.lanacion.com.ar/1887512-globo-y-la-tv-publica-argentina-producen-una-serie-con-cecilia-roth-para-el-mercado-hispanoparlante'
 title: Globo y la TV Pública argentina producen una serie con Cecilia Roth para el mercado hispanoparlante
-datePublished: '2016-04-11T02:44:39.670Z'
-dateModified: '2016-04-11T02:43:35.531Z'
+datePublished: '2016-04-11T03:14:36.563Z'
+dateModified: '2016-04-11T03:14:07.396Z'
 sourcePath: _posts/2016-04-11-globo-y-la-tv-publica-argentina-producen-una-serie-con-cecil.md
 published: true
 inFeed: true
