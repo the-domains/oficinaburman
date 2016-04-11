@@ -1,0 +1,28 @@
+name: oficinaburman
+favicon: null
+layout_spectrum: 0.24272750574164093
+typography_spectrum: 0.455637130420655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.029552730033174157
+  lightness: 0.749863140983507
+  saturation: 0.032079397002235055
+  rhythmicContrast: 0.5000670300796628
+purpose: []
